@@ -3,9 +3,13 @@ This project develops a machine learning model deployment pipeline for predictin
 
  Features :
 1. Data Preprocessing Pipeline
-   Handles missing values, categorical encoding, scaling, and feature selection
    
-3. Model Training & Evaluation
+   Handles missing values, categorical encoding, scaling, and feature selection
+
+   
+2. Model Training & Evaluation
+
    Trained multiple classification models (Random Forest and XGBoost)
 
-4. Compared performance using accuracy, precision, recall, and F1-score
+
+3. Compared performance using accuracy, precision, recall, and F1-score
